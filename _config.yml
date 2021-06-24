@@ -32,13 +32,13 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 
 # 菜单中的按钮
 navigation:
-  - name: Home
+  - name: home
     url: /
-  - name: Where to buy
+  - name: buy
     url: /about
-  - name: Tokenomics
+  - name: tokenomics
     url: /archive
-  - name: 
+  - name: whitepaper
     url: /tags
 
 # 每页的文章数
